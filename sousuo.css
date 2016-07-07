@@ -109,6 +109,7 @@ html, body {
   font-style: italic;
   line-height: 40px;
   text-transform: uppercase;
+  letter-spacing: 1px;
   margin: 0;
 }
 .mast__title span {
